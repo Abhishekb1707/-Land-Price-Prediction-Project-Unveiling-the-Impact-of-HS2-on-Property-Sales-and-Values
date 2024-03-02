@@ -1,0 +1,2 @@
+# -Land-Price-Prediction-Project-Unveiling-the-Impact-of-HS2-on-Property-Sales-and-Values
+My recent project delves into the analysis of property sales data in England and Wales, specifically focusing on the impact of the High-Speed 2 (HS2) project on land prices. The Price Paid Data, sourced from HM Land Registry, provides a comprehensive view of property transactions, with some considerations for the registration timeline.
